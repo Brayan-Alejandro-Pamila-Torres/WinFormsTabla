@@ -1,0 +1,16 @@
+C:\Users\aleja\source\repos\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.exe
+C:\Users\aleja\source\repos\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.deps.json
+C:\Users\aleja\source\repos\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.runtimeconfig.json
+C:\Users\aleja\source\repos\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.dll
+C:\Users\aleja\source\repos\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.pdb
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.Form1.resources
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.AssemblyInfo.cs
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.dll
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\refint\WinFormsTabla.dll
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.pdb
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.genruntimeconfig.cache
+C:\Users\aleja\source\repos\WinFormsTabla\obj\Debug\net8.0-windows\ref\WinFormsTabla.dll
